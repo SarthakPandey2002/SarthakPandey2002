@@ -1,16 +1,41 @@
-## Hi there 👋
+ # Hi, I'm Sarthak Pandey 👋
 
-<!--
-**SarthakPandey2002/SarthakPandey2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Full Stack Developer · Open Source Enthusiast · DSA Practitioner                                                                     
+  I enjoy building end-to-end web applications and solving algorithmic problems.                                                         Always learning, always shipping.
 
-Here are some ideas to get you started:
+  ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 🛠 Tech Stack
+
+  **Frontend** — React, Next.js, TypeScript, Tailwind CSS
+  **Backend** — Node.js, Express, REST APIs
+  **Database** — PostgreSQL, Supabase, Prisma, SQLite
+  **AI/ML** — Groq, OpenAI SDK, LLM integration
+  **Tools** — Git, Vite, Postman
+
+  ---
+
+  ## 🚀 Projects
+
+  **[Income Tracker](https://github.com/sarthak-pandey/tracker)**
+  Full stack income management app with CSV/Excel import, AI-powered categorization,
+  and analytics dashboard. Built with Next.js, Express, Supabase, and Groq AI.
+
+  **[Spur — AI Chat Support](https://github.com/sarthak-pandey/spur)**
+  E-commerce customer support chatbot with conversation history and context-aware
+  AI replies. Built with React, Express, Prisma, and Groq (Llama 3.3 70B).
+
+  ---
+
+  ## 📊 DSA
+
+  Regularly solving problems on LeetCode and GFG.
+  Focus areas: Arrays, Trees, Dynamic Programming, Graphs.
+
+  ---
+
+  ## 📫 Connect
+
+  [LinkedIn](https://www.linkedin.com/in/sarthak-pandey-09168920a/) · [Email](mailto:sarthakpandey2002@gmail.com)
+
+  ---
